@@ -1,4 +1,3 @@
-# Create the README file
 # Bluetooth LE Scanner
 
 A simple iOS application that scans for nearby Bluetooth Low Energy (BLE) devices and displays their details.
