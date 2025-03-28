@@ -16,9 +16,3 @@ A simple iOS application that scans for nearby Bluetooth Low Energy (BLE) device
 - Xcode 14.0+
 - Swift 5.7+
 - Physical iOS device (Bluetooth functionality is limited in simulators)
-
-## Installation
-
-1. Clone this repository
-```bash
-git clone https://github.com/your-username/ble-scanner.git
